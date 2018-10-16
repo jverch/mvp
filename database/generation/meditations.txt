@@ -1,0 +1,5 @@
+
+INSERT INTO meditations (title, link) 
+  VALUES ('5_Min_Male_Sitting_Meditation', 'https://s3-us-west-1.amazonaws.com/remindmeditations/5_Min_Male_Sitting_Meditation.mp3');
+INSERT INTO meditations (title, link) 
+  VALUES ('20_Min_Male_Body_Scan', 'https://s3-us-west-1.amazonaws.com/remindmeditations/20_Min_Male_Body_Scan.mp3');
